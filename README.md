@@ -17,3 +17,7 @@ npm run dev
 ```
 
 Navigate to [localhost:5000](http://localhost:5000).
+
+___
+
+All the game local happens in [src/App.svelte](https://github.com/markvanlan/svelte-hangman/blob/master/src/App.svelte)
